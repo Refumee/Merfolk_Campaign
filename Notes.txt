@@ -5,3 +5,4 @@ Check before release:
 - loose conditions and heroes
 - dialouge (maybe asking Elivaras again?)
 - Annyoing Mirion for more unfinished stuff?
+- Fix team colors for factions (Danielle lightblue, Krellis red, ...)
